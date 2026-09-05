@@ -8,7 +8,7 @@
       "extracts": true,
       "runThroughs": true,
       "loot": true,
-      "quests": true,
+      "quests": false,
       "bossKills": true,
       "levelUps": true,
       "achievements": true
