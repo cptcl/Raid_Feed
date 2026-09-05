@@ -20,8 +20,8 @@
       "enabled": true,
       "deathScreenshots": true,
       "extractScreenshots": true,
-      "rareLootScreenshots": true,
-      "questScreenshots": true,
+      "rareLootScreenshots": false,
+      "questScreenshots": false,
       "bossKillScreenshots": true,
       "achievementScreenshots": true
     },
