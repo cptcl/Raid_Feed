@@ -23,7 +23,7 @@
       "rareLootScreenshots": false,
       "questScreenshots": false,
       "bossKillScreenshots": true,
-      "achievementScreenshots": true
+      "achievementScreenshots": false
     },
     "filters": {
       "minimumRaidDuration": 60,
